@@ -11,7 +11,7 @@
 
 > Task Manager Challenge
 
-### 🏠 [Homepage](https://github.com/walteribeiro/github-task-manager#readme)
+### 🏠 [Homepage](https://github.com/walteribeiro/task-manager-challenge#readme)
 
 ## Install
 
